@@ -1,0 +1,23 @@
+# Python bytecode
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+env/
+ENV/
+myenv
+
+# Flask instance folder
+instance/
+
+# Other files to ignore
+*.sqlite3
+*.db
+*.log
+*.env
+*.DS_Store
+
+# IDE files (optional)
+.vscode/
+.idea/
